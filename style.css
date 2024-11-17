@@ -1,0 +1,13 @@
+header{
+    justify-content: center;
+    display: flex;
+    background-color: rgb(255, 2, 141);
+}
+.homepage ul{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+.homepage li{
+    margin-right: 20%;
+}
